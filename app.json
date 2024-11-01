@@ -1,0 +1,9 @@
+{
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject",
+  "extra": {
+    "eas": {
+      "projectId": "076bb0e7-98af-4fe6-b6df-25497dd638f6"
+    }
+  }
+}
